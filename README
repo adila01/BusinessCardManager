@@ -1,0 +1,25 @@
+Global setup:
+ Download and install Git
+  git config --global user.name "Your Name"
+  git config --global user.email luciferguys@hotmail.com
+        
+Next steps:
+  mkdir Android_apps
+  cd Android_apps
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:jy10d/Android_apps.git
+  git push -u origin master
+      
+Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:jy10d/Android_apps.git
+  git push -u origin master
+      
+Importing a Subversion Repo?
+  Click here
+      
+When you're done:
+  Continue
