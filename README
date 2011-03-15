@@ -1,7 +1,7 @@
 Global setup:
  Download and install Git
   git config --global user.name "Your Name"
-  git config --global user.email luciferguys@hotmail.com
+  git config --global user.email email@address
         
 Next steps:
   mkdir Android_apps
@@ -23,3 +23,13 @@ Importing a Subversion Repo?
       
 When you're done:
   Continue
+
+To change branch in your local machine:
+git branch branch_name
+git checkout branch_name
+
+upload:
+
+git add.
+git commit -m "Text_you_describe"
+git push
