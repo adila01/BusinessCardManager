@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Facebook SDK Example</string>
     <string name="request">Request!</string>
     <string name="hello">Hello World!</string>
@@ -7,4 +8,8 @@
     <string name="delete">Delete Post</string>
 
 
+=======
+    <string name="hello">Hello World, BusinessCardManager!</string>
+    <string name="app_name">BusinessCardManager</string>
+>>>>>>> 850c548403dc714b84faecf02242c655dfbd693e
 </resources>
